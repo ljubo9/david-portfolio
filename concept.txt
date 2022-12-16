@@ -1,0 +1,48 @@
+BIO
+
+Hi, my name is David! I am a 3rd year student at Faculty of Electrical Engineering and Computing (also known as FER) in Zagreb. Since I was a kid, I have always been fascinated with computers and how they work. Today, when I have some very little idea what is happening behind the curtain, I am looking to start and build my career as a software developer. Although, as far as I'm concerned, any job/internship in fields that include computing would suit me well. Outside of my schooling and business aspirations, I am really into sports and fitness. Perfect way for me to disconnect and take a break is by watching and playing sports, or having a good workout.
+
+Tools, Technologies & Skills
+
+C/C++
+
+I have written my first lines of code in C language and that was a start of a beautiful journey. Also, I have used a little bit of C++ when learning about Algorithms and Data Structures.
+
+
+Java
+
+I can't say I know a lot of Java, but it was the language I used when I was learning and using object oriented concepts for the first time.
+
+HTML & CSS
+
+Foundation of every web site. When I first learned basics of HTML and CSS in highschool, I couldn't believe that web world was that "simple". I still can't believe how much stuff you can build using only those two.
+
+Bootstrap
+
+Talking about CSS, Bootstrap is a very easy and powerful CSS component framework I have used. Also, I am familiar with utility frameworks such as Tailwind, but didn't use it as much.
+
+JavaScript
+
+I rembember several years ago I wondered what was the difference beetween Java and JavaScript. Luckily, today I know that JavaScript is a script language and one skill you can't live without if you are working in web development. I always stick to it, but I would love to learn TypeScript also.
+
+Vue.js
+
+Really great front end framework which I enjoyed using while making a single page web application.
+
+Node.js
+
+My first steps in the world of back end development. I haven't really used it that much, only for laboratory excercises at university.
+
+PostgreSQL
+
+Very simple tool for managing databases. I don't have that much experience in it, but I used it in some occasions.
+
+Visual Studio Code
+
+Nothing much to say here. For me, and I believe for many developers out there, definetly an IDE of choice. Plugins make your coding experience much more enjoyable, and IDE itself has a really good debugger.
+
+Git
+
+Very important system in the world of software developing. One year ago I thought terms "push" and "pull" very only used in gym and fitness scenarios, and that you have to "commit" when you are in a relationship... Little did I know, I would use those terms very frequently in a very different environment.
+
+ 
