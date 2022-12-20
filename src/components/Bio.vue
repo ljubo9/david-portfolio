@@ -4,7 +4,7 @@
   <div class="row">
 
     <div class="col-md-3 mt-5">
-        <img src="src\assets\bio_photo.jpeg" class="img-fluid rounded-circle" alt="David"> 
+        <img src="\src\assets\bio_picture.jpeg" class="img-fluid rounded-circle" alt="David"> 
     </div>
 
     <div class="col-md-8 mt-4">

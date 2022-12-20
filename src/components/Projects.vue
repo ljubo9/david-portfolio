@@ -25,7 +25,7 @@ export default {
     
     <div class="row mt-3">
 
-        <div class="col-md-6 d-flex" v-for="project in projects" :key="project.id">
+        <div class="col-md-6 d-flex mt-2" v-for="project in projects" :key="project.id">
             <div class="border border-3 rounded-top border-secondary bg-white">
                 <div class="d-flex justify-content-center align-items-center border border-secondary bg-dark text-white">
                     <h3 class="text-uppercase">{{ project.title }}</h3>
