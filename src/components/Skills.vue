@@ -24,22 +24,27 @@ export default {
 <template>
 
 <div class="d-flex justify-content-center align-items-center mt-3">
-    <div class="badge bg-dark text-wrap ms-2">
+    <div class="badge bg-dark text-wrap text-white ms-2">
         <h1>Technologies & Skills</h1>
     </div>
 </div>
 
-
-<div class="accordion mt-3" id="{{skill.id}}" v-for="skill in skills" :key="skill.id">
-    <div class="accordion-item">
-        <h2 class="accordion-header font-italic" id="headingOne">
-            <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                {{skill.title}}
-            </button>
-        </h2>
-        <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
-            <div class="accordion-body">
-                {{skill.details}}
+<div class="container">
+    <div class="row">
+        <div class="col-md-12">
+            <div class="accordion mt-3" id="{{skill.id}}" v-for="skill in skills" :key="skill.id">
+                <div class="accordion-item">
+                    <h2 class="accordion-header" id="headingOne">
+                        <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                        {{skill.title}}
+                        </button>
+                    </h2>
+                    <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+                        <div class="accordion-body">
+                        {{skill.details}}
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
     </div>
