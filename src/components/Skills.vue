@@ -32,7 +32,7 @@ export default {
 <div class="container">
     <div class="row">
         <div class="col-md-12">
-            <div class="accordion mt-3" id="{{skill.id}}" v-for="skill in skills" :key="skill.id">
+            <div class="accordion mt-3" id="accordionExample" v-for="skill in skills" :key="skill.id">
                 <div class="accordion-item">
                     <h2 class="accordion-header" id="headingOne">
                         <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
