@@ -12,7 +12,8 @@ export default {
                 { title: 'Node.js', id: 7, details: "My first steps in the world of back end development. I haven't really used it that much, only for laboratory excercises at university."},
                 { title: 'PostgreSQL', id: 8, details: "Very simple tool for managing databases. I don't have that much experience in it, but I used it in some occasions."},
                 { title: 'Visual Studio Code', id: 9, details: "Nothing much to say here. For me, and I believe for many developers out there, definetly an IDE of choice. Plugins make your coding experience much more enjoyable."},
-                { title: 'Git', id: 10, details: "Very important system in the world of software developing. One year ago I thought terms \"push\" and \"pull\" very only used in gym and fitness scenarios, and that you have to \"commit\" when you are in a relationship... Little did I know, I would use those terms very frequently in a very different environment."}
+                { title: 'Git', id: 10, details: "Very important system in the world of software developing. One year ago I thought terms \"push\" and \"pull\" very only used in gym and fitness scenarios, and that you have to \"commit\" when you are in a relationship... Little did I know, I would use those terms very frequently in a very different environment."},
+                { title: 'MATLAB', id:11, details: "Useful tool for computing and for many engineers, although I only used it to help my dear friend Josephine for university tasks."}
             ]
         }
     }
